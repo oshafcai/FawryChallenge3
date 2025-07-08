@@ -52,5 +52,8 @@ Interfaces are kept specific and minimal:
 ### Dependency Inversion Principle (DIP)
 High-level modules do not depend on low-level concrete classes:
 - CheckoutService depends on the Shippable interface rather than specific product implementations
+- 
+### Output Be Like 
+<img width="1512" alt="Screenshot 2025-07-08 at 9 09 31 PM" src="https://github.com/user-attachments/assets/fea164b0-20b9-498a-8c97-ec51fa35cc33" />
 
 ---
